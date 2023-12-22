@@ -1,7 +1,7 @@
 <div align='center'>
 
 <h1>Controller Adapter</h1>
-<p>Free Controller adapter for: Steam,Epic and Roblox</p>
+<p>Free Controller adapter for: Steam,Epic and Roblox (Plutonium/Steam)</p>
 
 <h4> <span> · </span> <a href="https://github.com/CherryAma/AnyControlADPT/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/CherryAma/AnyControlADPT/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/CherryAma/AnyControlADPT/issues"> Request Feature </a> </h4>
 
